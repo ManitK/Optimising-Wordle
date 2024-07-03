@@ -1,6 +1,6 @@
 # Optimizing Wordle Guessing: Data Analysis and Strategic Selection
 
-Code Reposity for article (DOI:18.15001/JOT.2024/V12I6.24.490) published in [Volume 12, Issue 6 2024](https://journaloftechnology.org/volume-12-issue-6-2024/) of the **Journal of Technology**. This project aims to enhance the player's chances of success in the game of Wordle by employing mathematical strategies, common gameplay tactics combined with data analysis with strategic selection.
+Code Repository for article (DOI:18.15001/JOT.2024/V12I6.24.490) published in [Volume 12, Issue 6 2024](https://journaloftechnology.org/volume-12-issue-6-2024/) of the **Journal of Technology**. This project aims to enhance the player's chances of success in the game of Wordle by employing mathematical strategies, common gameplay tactics combined with data analysis with strategic selection.
 
 
 ## csv folder 
